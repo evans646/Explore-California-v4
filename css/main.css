@@ -185,7 +185,7 @@ span.accent {
 }
 /* ^3 ------------- home page specfic layout styles ----------- */
 #home #wrapper {
-  background: #000 url(../_images/home_page_back.jpg) no-repeat 0 100px;
+  background: #000 url(../images/home_page_back.jpg) no-repeat 0 100px;
 }
 #actionCall {
   height: 328px;
@@ -205,7 +205,7 @@ span.accent {
   border: none;
   width: 285px;
   height: 55px;
-  background: url(../_images/tour_badge.png) no-repeat;
+  background: url(../images/tour_badge.png) no-repeat;
   display: block;
   margin: 70px 0 0 783px;
 }
@@ -259,7 +259,7 @@ span.accent {
 }
 #home #mainContent p.spotlight {
   padding-right: 200px;
-  background: url(../_images/cycle_logo.png) no-repeat top right;
+  background: url(../images/cycle_logo.png) no-repeat top right;
 }
 #home video {
   margin: 1em 0;
@@ -312,7 +312,7 @@ span.accent {
   width: 192px;
   height: 237px;
   display: block;
-  background: url(../_images/logo.gif) no-repeat;
+  background: url(../images/logo.gif) no-repeat;
   position: absolute;
   top: -25px;
   left: 50px;
@@ -511,7 +511,7 @@ span.accent {
 #mainContent #mainArticle li {
   margin: 0 0 1.2em 2.4em;
   padding: 0 0 0 24px;
-  background: url(../_images/star_bullet.gif) no-repeat 0 2px;
+  background: url(../images/star_bullet.gif) no-repeat 0 2px;
   font-size: 1em;
   color: #51341a;
 }
@@ -589,7 +589,7 @@ span.accent {
   float: right;
   width: 95px;
   height: 30px;
-  background: url(../_images/more_bug.gif) no-repeat left top;
+  background: url(../images/more_bug.gif) no-repeat left top;
   text-indent: -1000em;
   margin: 15px 0 0 15px;
 }
@@ -598,7 +598,7 @@ span.accent {
   float: right;
   width: 95px;
   height: 30px;
-  background: url(../_images/book_bug.gif) no-repeat left top;
+  background: url(../images/book_bug.gif) no-repeat left top;
   text-indent: -1000em;
   margin: 15px 0 0 15px;
 }
@@ -633,7 +633,7 @@ span.accent {
 #mainContent #mainArticle p a.top {
   text-align: right;
   padding-left: 30px;
-  background: url(../_images/return_top.gif) no-repeat;
+  background: url(../images/return_top.gif) no-repeat;
   line-height: 20px;
   float: right;
 }
@@ -731,7 +731,7 @@ span.accent {
   border-bottom: 1px solid #000;
 }
 #mainContent table.complex thead {
-  background: url(../_images/thead_back.gif) repeat-x left top;
+  background: url(../images/thead_back.gif) repeat-x left top;
   height: 40px;
 }
 #mainContent table.complex thead th {
@@ -1024,4 +1024,4 @@ span.accent {
 #pageFooter section li a:active {
   color: #fff;
   border: none;
-}
+};
